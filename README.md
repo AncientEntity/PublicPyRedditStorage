@@ -1,5 +1,4 @@
-# PublicPyRedditStorage
- The public repo of PyRedditStorage.
+#PyRedditStorage
 
 ## What is this?
 ######
