@@ -22,3 +22,8 @@ PythonRedditStorage allows you to store your files on a private subreddit direct
  1. PyRedditStorage.UploadFile(fileDirectoryAndName) explains itself.
  2. PyRedditStorage.RetrieveFileAndSave(fileName,fileSaveLocation,overrideName) -> Only mandatory parameter is fileName, the rest defaults. fileSaveLocation is defaulted to the python file's directory, and overrideName is only there if you want to save it with a different file name as uploaded.
  
+ ## Coming Soon Maybe
+ 1. Encryption
+ 2. Compression
+ 3. Better UI (if someone wants to do this one for me that would be great)
+ 
